@@ -2,6 +2,7 @@
 Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
 
 * [Another Log4j on the fire: Unifi](https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi)
+* see also : https://www.youtube.com/watch?v=NLf1xzdlfCE
 
 # Why?
 
